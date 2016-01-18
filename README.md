@@ -1,2 +1,2 @@
 # worldwideboxoffice
-Worldwide box office movie data
+Worldwide box office movie ticket sales data

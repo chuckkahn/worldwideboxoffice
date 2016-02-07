@@ -14,3 +14,4 @@ Jane Got a Gun|2015|0.277|
 Saala Khadoos|2016|0.076931|
 Jane Got a Gun|2015|0.938521|0.712451
 Pride and Prejudice and Zombies|2016|2.035
+Regression|2015/I|0.0115

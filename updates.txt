@@ -1,12 +1,12 @@
-Star Wars: The Force Awakens|2015|900.8|1096
+Star Wars: The Force Awakens|2015|900.8|1102.4
 The Boy and the World|2013|0.015991
 Jag är Ingrid|2015|0.042381
 The Girl in the Book|2015|0.008245
 Omohide poro poro|1991|0.038681
 Spectre|2015|199.285272|678.2
-The Revenant|2015|124.25534|104.5
-The Big Short|2015|57.515453|30.7
-Daddy's Home|2015|139.650427|59.3
+The Revenant|2015|144.683403|176.4
+The Big Short|2015|57.515453|47.9
+Daddy's Home|2015|139.650427|76.1
 Creed|2015|108.368646|41.9
 The Hateful Eight|2015|51.48128|50
 Yip Man 3|2015|0.268267|
@@ -15,3 +15,5 @@ Saala Khadoos|2016|0.076931|
 Jane Got a Gun|2015|0.938521|0.712451
 Pride and Prejudice and Zombies|2016|2.035
 Regression|2015/I|0.0115
+Ride Along 2|2016|74.04683|22.8
+The Finest Hours|2016|15.19766|5.8

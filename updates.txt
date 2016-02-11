@@ -24,3 +24,4 @@ Point Break|2015|28.517112|93.5
 The Danish Girl|2015|10.474359|28.9
 Steve Jobs|2015|17.766658|15.1
 Spotlight|2015|31.445042|12
+Shaandaar|2015|0.521794|8.1

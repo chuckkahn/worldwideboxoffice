@@ -1,12 +1,21 @@
+Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing|2016||113
+The Mermaid|2016||260
+Dad's Army|2016||7
+How to Be Single|2016|5.25|8.1
+Zoolander 2|2016|4.2|8.5
+Deadpool|2016|47.5|125.1
+13 Hours: The Secret Soldiers of Benghazi|2016|49.285015|3.8
 Star Wars: Episode VII - The Force Awakens|2015|900.8|1102.4
+Sisters|2015|75.83219|17
+The Martian|2015|228.167401|386
 The Boy and the World|2013|0.015991
 Jag är Ingrid|2015|0.042381
 The Girl in the Book|2015|0.008245
 Omohide poro poro|1991|0.038681
 Spectre|2015|199.285272|678.2
-The Revenant|2015|144.683403|176.4
-The Big Short|2015|57.515453|47.9
-Daddy's Home|2015|139.650427|76.1
+The Revenant|2015|144.683403|201.9
+The Big Short|2015|57.515453|52.1
+Daddy's Home|2015|139.650427|82.5
 Creed|2015|108.368646|58.5
 The Hateful Eight|2015|51.48128|76
 Yip Man 3|2015|0.268267|
@@ -15,13 +24,13 @@ Saala Khadoos|2016|0.076931|
 Jane Got a Gun|2015|0.938521|0.712451
 Pride and Prejudice and Zombies|2016|2.035
 Regression|2015/I|0.0115
-Ride Along 2|2016|74.04683|22.8
+Ride Along 2|2016|74.04683|25.6
 The Finest Hours|2016|15.19766|5.8
-Kung Fu Panda 3|2016|53.250957|129.1
-Alvin and the Chipmunks: The Road Chip|2015|83.420931|87.8
+Kung Fu Panda 3|2016|53.250957|162.1
+Alvin and the Chipmunks: The Road Chip|2015|83.420931|108
 Joy|2015|52.811476|41.9
 Point Break|2015|28.517112|93.5
-The Danish Girl|2015|10.474359|28.9
-Steve Jobs|2015|17.766658|15.1
+The Danish Girl|2015|10.474359|44
+Steve Jobs|2015|17.766658|16.1
 Spotlight|2015|31.445042|12
 Shaandaar|2015|0.521794|8.1

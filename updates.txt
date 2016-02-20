@@ -10,7 +10,7 @@ How to Be Single|2016|5.25|8.1
 Zoolander 2|2016|4.2|8.5
 Deadpool|2016|135|150
 13 Hours: The Secret Soldiers of Benghazi|2016|49.285015|3.8
-Star Wars: Episode VII - The Force Awakens|2015|900.8|1102.4
+Star Wars: Episode VII - The Force Awakens|2015|918.7|1102.4
 Sisters|2015|75.83219|17
 The Martian|2015|228.167401|386
 The Boy and the World|2013|0.015991
@@ -31,7 +31,7 @@ Pride and Prejudice and Zombies|2016|2.035
 Regression|2015/I|0.0115
 Ride Along 2|2016|74.04683|25.6
 The Finest Hours|2016|15.19766|5.8
-Kung Fu Panda 3|2016|53.250957|162.1
+Kung Fu Panda 3|2016|107.5|162.1
 Alvin and the Chipmunks: The Road Chip|2015|83.420931|108
 Joy|2015|52.811476|41.9
 Point Break|2015|28.517112|93.5

@@ -10,7 +10,7 @@ How to Be Single|2016|5.25|8.1
 Zoolander 2|2016|4.2|8.5
 Deadpool|2016|135|150
 13 Hours: The Secret Soldiers of Benghazi|2016|49.285015|3.8
-Star Wars: Episode VII - The Force Awakens|2015|918.7|1102.4
+Star Wars: Episode VII - The Force Awakens|2015|921.6|1117.4
 Sisters|2015|75.83219|17
 The Martian|2015|228.167401|386
 The Boy and the World|2013|0.015991
@@ -18,7 +18,7 @@ Jag är Ingrid|2015|0.042381
 The Girl in the Book|2015|0.008245
 Omohide poro poro|1991|0.038681
 Spectre|2015|199.285272|678.2
-The Revenant|2015|144.683403|201.9
+The Revenant|2015|165.1|201.9
 The Big Short|2015|57.515453|52.1
 Daddy's Home|2015|139.650427|82.5
 Creed|2015|108.368646|58.5

@@ -1,28 +1,29 @@
+Crouching Tiger, Hidden Dragon: Sword of Destiny|2016||21
 The Witch|2016|8.7
-Zootopia|2016||31.2
+Zootopia|2016||39
 Boonie Bears, to the Rescue!|2014||42
 Mania Days|2015|0.016816
 Monster Hunt|2015|0.021074|391
-Du cheng feng yun III|2016||120.3
+Du cheng feng yun III|2016||156
 Where to Invade Next|2015|0.25|
-Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing|2016||116.2
-The Mermaid|2016||419
+Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing|2016||157
+The Mermaid|2016||420
 Dad's Army|2016||7
-How to Be Single|2016|5.25|8.1
+How to Be Single|2016|5.25|24.1
 Zoolander 2|2016|4.2|17.1
 Deadpool|2016|235.4|256.3
 13 Hours: The Secret Soldiers of Benghazi|2016|49.285015|3.8
 Star Wars: Episode VII - The Force Awakens|2015|921.6|1117.4
 Sisters|2015|75.83219|17
-The Martian|2015|228.167401|386
+The Martian|2015|228.167401|391.8
 The Boy and the World|2013|0.015991
 Jag är Ingrid|2015|0.042381
 The Girl in the Book|2015|0.008245
 Omohide poro poro|1991|0.038681
 Spectre|2015|199.285272|678.2
-The Revenant|2015|165.1|201.9
+The Revenant|2015|165.1|216.5
 The Big Short|2015|57.515453|52.1
-Daddy's Home|2015|139.650427|82.5
+Daddy's Home|2015|139.650427|86.6
 Creed|2015|108.368646|58.5
 The Hateful Eight|2015|51.48128|76
 Yip Man 3|2015|0.268267|
@@ -33,11 +34,12 @@ Pride and Prejudice and Zombies|2016|2.035
 Regression|2015/I|0.0115
 Ride Along 2|2016|74.04683|25.6
 The Finest Hours|2016|15.19766|5.8
-Kung Fu Panda 3|2016|107.5|162.1
-Alvin and the Chipmunks: The Road Chip|2015|83.420931|108
+Kung Fu Panda 3|2016|107.5|177
+Alvin and the Chipmunks: The Road Chip|2015|83.420931|131.1
 Joy|2015|52.811476|41.9
 Point Break|2015|28.517112|93.5
 The Danish Girl|2015|10.474359|44
 Steve Jobs|2015|17.766658|16.1
 Spotlight|2015|31.445042|12
 Shaandaar|2015|0.521794|8.1
+Goosebumps|2015|79.968628|74.3

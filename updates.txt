@@ -2,7 +2,7 @@ Rams|2015|0.073278
 Until Forever|2016|0.031253
 Crouching Tiger, Hidden Dragon: Sword of Destiny|2016||21
 The Witch|2016|8.7
-Zootopia|2016||39
+Zootopia|2016|73.7|158
 Boonie Bears, to the Rescue!|2014||42
 Mania Days|2015|0.016816
 Monster Hunt|2015|0.021074|391

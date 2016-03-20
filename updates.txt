@@ -1,3 +1,4 @@
+Allegiant|2016|11.9
 Kapoor and Sons|2016|0.275
 The Bronze|2015|0.13
 Hello, My Name Is Doris|2015|0.117667|

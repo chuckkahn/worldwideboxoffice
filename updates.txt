@@ -41,7 +41,7 @@ Omohide poro poro|1991|0.038681
 Spectre|2015|199.285272|678.2
 The Revenant|2015|165.1|216.5
 The Big Short|2015|57.515453|52.1
-Daddy's Home|2015|139.650427|86.6
+Daddy's Home|2015|150|90
 Creed|2015|108.368646|58.5
 The Hateful Eight|2015|51.48128|76
 Yip Man 3|2015|0.268267|

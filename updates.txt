@@ -3,10 +3,10 @@ Baaghi: A Rebel For Love|2016|0.237215
 Papa: Hemingway in Cuba|2015|0.1352
 Green Room|2015|0.711886
 Ratchet & Clank|2016|1.488
-Captain America: Civil War|2016||200.2
+Captain America: Civil War|2016||241.5
 Louder Than Bombs|2015|0.024259
 Mr. Right|2015/I|0.025369
-The Jungle Book|2016||28.9
+The Jungle Book|2016|259|458.7
 The Huntsman: Winter's War|2016||20
 Demolition|2015|0.36
 Hardcore Henry|2015|2.01

@@ -8,7 +8,7 @@ Captain America: Civil War|2016|181.8|496.6
 Louder Than Bombs|2015|0.024259
 Mr. Right|2015/I|0.025369
 The Jungle Book|2016|259|458.7
-The Huntsman: Winter's War|2016||20
+The Huntsman: Winter's War|2016|40.4|105.9
 Demolition|2015|0.36
 Hardcore Henry|2015|2.01
 Saturday's Warrior|2016|0.096041
@@ -25,7 +25,7 @@ Rams|2015|0.073278
 Until Forever|2016|0.031253
 Crouching Tiger, Hidden Dragon: Sword of Destiny|2016||21
 The Witch|2016|8.7
-Zootopia|2016|73.7|158
+Zootopia|2016|73.7|628.8
 Boonie Bears, to the Rescue!|2014||42
 Mania Days|2015|0.016816
 Monster Hunt|2015|0.021074|391

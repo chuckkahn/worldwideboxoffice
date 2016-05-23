@@ -1,3 +1,7 @@
+Neighbors 2: Sorority Rising|2016||30
+Goksung|2016||32.3
+Angry Birds|2016||112
+X-Men: Apocalypse|2016||103.3
 The Lobster|2015|0.257336
 Search Party|2014|0.004571
 A Bigger Splash|2015|0.055232
@@ -6,11 +10,11 @@ Baaghi: A Rebel For Love|2016|0.237215
 Papa: Hemingway in Cuba|2015|0.1352
 Green Room|2015|0.711886
 Ratchet & Clank|2016|1.488
-Captain America: Civil War|2016|223.3|564.9
+Captain America: Civil War|2016|223.3|706.1
 Louder Than Bombs|2015|0.024259
 Mr. Right|2015/I|0.025369
-The Jungle Book|2016|259|501
-The Huntsman: Winter's War|2016|40.4|105.9
+The Jungle Book|2016|259|530.2
+The Huntsman: Winter's War|2016|40.4|111.3
 Demolition|2015|0.36
 Hardcore Henry|2015|2.01
 Saturday's Warrior|2016|0.096041
@@ -26,8 +30,8 @@ Hello, My Name Is Doris|2015|0.117667|
 Rams|2015|0.073278
 Until Forever|2016|0.031253
 Crouching Tiger, Hidden Dragon: Sword of Destiny|2016||21
-The Witch|2016|8.7
-Zootopia|2016|73.7|628.8
+The Witch|2016|8.7|10.6
+Zootopia|2016|73.7|647.4
 Boonie Bears, to the Rescue!|2014||42
 Mania Days|2015|0.016816
 Monster Hunt|2015|0.021074|391

@@ -14,7 +14,7 @@ Ratchet & Clank|2016|1.488
 Captain America: Civil War|2016|223.3|706.1
 Louder Than Bombs|2015|0.024259
 Mr. Right|2015/I|0.025369
-The Jungle Book|2016|259|530.2
+The Jungle Book|2016/I|259|530.2
 The Huntsman: Winter's War|2016|40.4|111.3
 Demolition|2015|0.36
 Hardcore Henry|2015|2.01

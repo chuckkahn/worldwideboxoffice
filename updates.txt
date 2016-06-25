@@ -50,7 +50,7 @@ How to Be Single|2016|5.25|24.1
 Zoolander 2|2016|4.2|17.1
 Deadpool|2016|311.16|362.04
 13 Hours: The Secret Soldiers of Benghazi|2016|49.285015|3.8
-Star Wars: Episode VII - The Force Awakens|2015|921.6|1117.4
+Star Wars: Episode VII - The Force Awakens|2015|936|1130
 Sisters|2015|75.83219|17
 The Martian|2015|228.167401|391.8
 The Boy and the World|2013|0.015991

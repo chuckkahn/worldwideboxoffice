@@ -79,7 +79,7 @@ Ride Along 2|2016|74.04683|25.6
 The Finest Hours|2016|15.19766|5.8
 Kung Fu Panda 3|2016|107.5|177
 Alvin and the Chipmunks: The Road Chip|2015|83.420931|131.1
-Joy|2015|52.811476|41.9
+Joy|2015/I|52.811476|41.9
 Point Break|2015|28.517112|93.5
 The Danish Girl|2015|10.474359|44
 Steve Jobs|2015|17.766658|16.1

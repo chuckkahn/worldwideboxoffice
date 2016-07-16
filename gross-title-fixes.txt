@@ -12,7 +12,7 @@ Teenage Mutant Ninja Turtle&Hellip|Teenage Mutant Ninja Turtles: Out of the Shad
 Alice Through the Looking G|Alice Through the Looking Glass|2016
 Almost Holy|Crocodile Gennadiy|2015
 The Angry Birds Movie|Angry Birds|2016
-Ratchet and Clank|Ratchet & Clank|2016
+Ratchet and Clank|Ratchet & Clank|2016g
 The Huntsman Winter's War|The Huntsman: Winter's War|2016
 Mr. Right|Mr. Right|2015/I
 April and the Extraordinary|Avril et le monde truqué|2015
@@ -67,7 +67,6 @@ Birdman|Birdman or (The Unexpected Virtue of Ignorance)|2014
 Planes: Fire and Rescue|Planes: Fire & Rescue|2014
 Atlas Shrugged: Who is John Galt?|Atlas Shrugged: Who Is John Galt?|2014
 What If|The F Word|2013/V
-Ghostbusters|Ghost Busters|1984
 America: Imagine a World Without Her|America|2014/I
 Dawn of the Planet Of The Apes|Dawn of the Planet of the Apes
 Words and Pictures|Words and Pictures|2013

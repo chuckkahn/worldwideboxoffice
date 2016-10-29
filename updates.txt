@@ -66,7 +66,7 @@ Mania Days|2015|0.016816
 Zhuo yao ji|2015|0.021074|391
 Du cheng feng yun III|2016||156
 Where to Invade Next|2015|0.25|
-Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing|2016||157
+Xi you ji zhi: Sun Wukong san da Baigu Jing|2016||157
 Mei ren yu|2016|2.675575|500
 Dad's Army|2016||7
 How to Be Single|2016|5.25|24.1

@@ -28,7 +28,7 @@ The Music of Strangers|2015|0.238056
 My Father's Will|2009|0.02998
 Clown|2014|0.036574
 Gentleman|2016|0.599906
-Finding Dory|2016|422.6|220.2
+Finding Dory|2016|422.6|525.9
 Warcraft|2016|24.3|261.8
 Crocodile Gennadiy|2015|0.004195
 Neighbors 2: Sorority Rising|2016||30

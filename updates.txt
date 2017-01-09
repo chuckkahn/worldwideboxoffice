@@ -1,3 +1,5 @@
+Passengers|2016/I||32.7
+Assassin's Creed|2016||98
 Umi ga kikoeru|1993||0.012039
 The Bounce Back|2016|0.320676
 Fantastic Beasts and Where to Find Them|2016|426|318.6
@@ -6,7 +8,7 @@ Hidden Figures|2016|0.838571
 Chosen|2016|0.003057
 Rogue One|2016|477.3|437.1
 Kimi no na wa|2016||175.3
-Moana|2016/I|119.9|177.4
+Moana|2016/I|119.9|224
 Believe|2016|0.1689
 Manchester by the Sea|2016|1.627629
 Miss Sloane|2016|0.059797

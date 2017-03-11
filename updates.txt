@@ -1,3 +1,4 @@
+Personal Shopper|2016|0.028
 Junction 48|2016|0.007873
 Donald Cried|2016|0.011135
 Logan|2017|85.3|152.5

@@ -1,3 +1,4 @@
+Raw|2016/II|0.00903
 Personal Shopper|2016|0.028
 Junction 48|2016|0.007873
 Donald Cried|2016|0.011135

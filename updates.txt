@@ -1,3 +1,4 @@
+CHIPS|2017|2.6
 T2 Trainspotting|2017|0.186295
 The Belko Experiment|2016|4.51913
 Khoobsurat|2014|0.795481

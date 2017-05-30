@@ -20,7 +20,7 @@ Spark: A Space Tail|2016|0.112352
 Colossal|2016|0.616344
 The Fate of the Furious|2017|124.89622|432
 February|2015/I|0.012402
-Beauty and the Beast|2017|228.6|262
+Beauty and the Beast|2017|435.6|557.3
 Phillauri|2017|0.265
 CHIPS|2017|2.6
 T2 Trainspotting|2017|0.186295

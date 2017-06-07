@@ -1,3 +1,4 @@
+Dean|2016|0.065823
 The Exception|2016|0.021351
 Radio Dreams|2016|0.002053
 The Recall|2017|0.001593

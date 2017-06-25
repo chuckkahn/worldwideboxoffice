@@ -1,3 +1,4 @@
+The Bad Batch|2016|0.091074
 The Proxy Soldiers|2017|0.039
 Scary Movie 3|2003|110.000082|110.67
 The Bourne Identity|2002|121.661683|92

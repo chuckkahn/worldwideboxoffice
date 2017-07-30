@@ -83,7 +83,6 @@ xXx: Return of Xander Cage|2017|7
 OK Jaanu|2017|0.244
 Paterson|2016|0.231959
 20th Century Women|2016|0.396132
-Passengers|2016/I||32.7
 Assassin's Creed|2016||98
 Umi ga kikoeru|1993||0.012039
 The Bounce Back|2016|0.320676

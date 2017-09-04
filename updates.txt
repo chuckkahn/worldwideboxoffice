@@ -99,7 +99,6 @@ A Monster Calls|2016|0.038267
 Hidden Figures|2016|0.838571
 Chosen|2016|0.003057
 Rogue One|2016|512.2|499.1
-Kimi no na wa|2016||175.3
 Moana|2016/I|119.9|224
 Believe|2016|0.1689
 Manchester by the Sea|2016|1.627629

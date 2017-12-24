@@ -1,3 +1,4 @@
+The Ballad of Lefty Brown|2017|0.007856
 Star Wars: Episode VIII - The Last Jedi|2017|104.787|314
 Thrill Ride|2016|0.002226
 Wonder Wheel|2017|0.270282

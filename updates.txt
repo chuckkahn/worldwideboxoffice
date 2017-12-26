@@ -29,7 +29,6 @@ A Gentleman|2017|0.138
 Mayweather vs. Mcgregor|2017|2.4
 The Only Living Boy in New York|2017|0.210229
 Birth of the Dragon|2016|1.108
-Ballerina|2016|1.62728
 La jeune fille sans mains|2016|0.006835
 The Last Dalai Lama?|2016|0.046145
 We Love You, Sally Carmichael!|2017|0.01626

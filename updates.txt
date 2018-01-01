@@ -1,5 +1,16 @@
+Happy Death Day|2017|55.683845|59.5
+The Foreigner|2017|34.393507|106.4
+A Bad Moms Christmas|2017|71.733932|55.6
+Perfectos desconocidos|2017||15.2
+Justice League|2017|221.993455|427
+Downsizing|2017||2
+All the Money in the World|2017||1.7
+Murder on the Orient Express|2017||225.4 
+Pitch Perfect 3|2017||97.8
+Ferdinand|2017||71.9
+The Greatest Showman|2017||35.2
 Jumanji: Welcome to the Jungle|2017||153
-Coco|2017/I||325
+Coco|2017/I||359
 Psiconautas, los niños olvidados|2015|0.011855
 The Ballad of Lefty Brown|2017|0.007856
 Star Wars: Episode VIII - The Last Jedi|2017|104.787|523.3
@@ -7,7 +18,7 @@ Thrill Ride|2016|0.002226
 Wonder Wheel|2017|0.270282
 No Greater Love|2015/I|0.00924
 Three Billboards Outside Ebbing, Missouri|2017|0.102828
-Daddy's Home 2|2017|10.88
+Daddy's Home 2|2017|10.88|72.3
 Amityville: The Awakening|2017|0.000742
 The Work|2017|0.005853
 All I See Is You|2016|0.04741

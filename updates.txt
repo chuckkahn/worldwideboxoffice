@@ -1,264 +1,90 @@
+13 Hours|2016|52.853219|3.8
+A Bad Moms Christmas|2017|71.733932|55.6
+All the Money in the World|2017||1.7
+Amityville: The Awakening|2017|0.000742|
+Ascenseur pour l'échafaud|1958|0.373597|0
+Baaghi: A Rebel For Love|2016|0.237215|
+Bastille Day|2016|0.050269|14.358593
+Believe|2016|0.1689|
+Blue Jay|2016/I|0.021626|0
+Boonie Bears, to the Rescue!|2014|0|42
+Chosen|2016|0.003057|0
+Coco|2017/I|140.785896|359
+Cold War 2|2016||44
+Crouching Tiger, Hidden Dragon: Sword of Destiny|2016||21
+Dad's Army|2016||7
+Daddy's Home 2|2017|92.779982|72.3
+Dean|2016|0.065823|
+Detective Chinatown 2|2018|1.155578|315
+Downsizing|2017||2
+Everybody Loves Somebody|2017|0.26|
+Everybody Wants Some|2016|0.144457|
+Ferdinand|2017|13.325|71.9
+Gentleman|2016|0.599906|0
+Go with Me|2015|0.027079|0.295889
+Goksung|2016||32.3
+Happy Death Day|2017|55.683845|59.5
 Hong hai xing dong|2018||215
+How to Be Single|2016|46.813366|24.1
+Ism|2016|0.134166|
+Jane Got a Gun|2015|1.512815|0.712451
+Jimi: All Is by My Side|2013|0.340911|0
+Jumanji: Welcome to the Jungle|2017||153
+Justice League|2017|221.993455|427
+Kaashmora|2016|0.327929|
+Kapoor and Sons|2016|0.275|
+Khoobsurat|2014|0.795481|0
+La battaglia di Algeri|1966|0.859868|0.106203
+La Boda de Valentina|2018|2.279634|
+Mania Days|2015|0.016816|
+Más negro que la noche|2014|0.870063|0
+Mayweather vs. Mcgregor|2017|2.4|
+Meari to majo no hana|2017|1.733757|
+Men, Women & Children|2014|0.705908|0
+Miles|2017/I|0.001676|
+Murder on the Orient Express|2017|94.782742|225.4 
+My Father's Will|2009|0.02998|
+Neighbors 2: Sorority Rising|2016|55.291815|30
+No manches Frida|2016|5.218782|
+One Chance|2013|0.089722|3.892895
+Padmaavat|2018|1.672|
+Papa: Hemingway in Cuba|2015|0.1352|
+Parchi|2018|0.007098|
+Perfectos desconocidos|2017||15.2
+Pitch Perfect 3|2017||97.8
+Psiconautas, los niños olvidados|2015|0.011855|
+Rams|2015|0.073278|
+Raw|2016/II|0.00903|
+Ride Along 2|2016|90.83503|25.6
+Rules Don’t Apply|2016|1.2|
+Sanpo suru shinryakusha|2017|0.016901|
+Scary Movie 3|2003|110.000082|110.67
+Sea of Trees|2015|0.002288|
+Search Party|2014|0.004571|
+Shaandaar|2015|0.521794|8.1
+Star Wars: Episode VIII - The Last Jedi|2017|220.047|573.5
+Steve Jobs|2015|17.766658|16.1
+Take Me|2017|0.003258|0
+Term Life|2016/II|0.01304|
+The Ballad of Lefty Brown|2017|0.007856|
+The Bourne Identity|2002|121.661683|92
+The Boy and the World|2013|0.015991|
+The Charnel House|2016|0.001753|
+The Danish Girl|2015|12.706393|44
+The Disappearance of Eleanor Rigby: Them|2014|0.587152|0.009920
+The Finest Hours|2016|27.550735|5.8
+The Foreigner|2017|34.393507|106.4
+The Girl in the Book|2015|0.008245|0
+The Greatest Showman|2017||35.2
+The Homeless Billionaire|2016|0.019771|
+The Monster|2016/I|0.012544|
+The Promise|2016/II|4.06486|
+The Resurrection of Gavin Stone|2017|1.292546|
+The Witch|2016|8.7|10.6
+Thrill Ride|2016|0.002226|
+Titanic|1997|659.325379|1528.100002
+Umi ga kikoeru|1993||0.012039
+Wildflower|2016|0.018062|
 Xiyouji zhi Nü'erguo|2018||94
 Zhuo yao ji 2|2018|0.511307|271
-La Boda de Valentina|2018|2.279634
-Detective Chinatown 2|2018|1.155578|315
-Sanpo suru shinryakusha|2017|0.016901
-Meari to majo no hana|2017|1.733757
-Padmaavat|2018|1.672
-Parchi|2018|0.007098
-Happy Death Day|2017|55.683845|59.5
-The Foreigner|2017|34.393507|106.4
-A Bad Moms Christmas|2017|71.733932|55.6
-Perfectos desconocidos|2017||15.2
-Justice League|2017|221.993455|427
-Downsizing|2017||2
-All the Money in the World|2017||1.7
-Murder on the Orient Express|2017||225.4 
-Pitch Perfect 3|2017||97.8
-Ferdinand|2017||71.9
-The Greatest Showman|2017||35.2
-Jumanji: Welcome to the Jungle|2017||153
-Coco|2017/I||359
-Psiconautas, los niños olvidados|2015|0.011855
-The Ballad of Lefty Brown|2017|0.007856
-Star Wars: Episode VIII - The Last Jedi|2017|104.787|573.5
-Thrill Ride|2016|0.002226
-Wonder Wheel|2017|0.270282
-No Greater Love|2015/I|0.00924
-Three Billboards Outside Ebbing, Missouri|2017|0.102828
-Daddy's Home 2|2017|10.88|72.3
-Amityville: The Awakening|2017|0.000742
-The Work|2017|0.005853
-All I See Is You|2016|0.04741
-Let There Be Light|2017/I|0.611281
-Tyler Perry's Boo 2! A Madea Halloween|2017|7.47
-120 battements par minute|2017|0.00573
-Same Kind of Different as Me|2017|2.085
-Professor Marston and the Wonder Women|2017|0.248
-The Departure|2017/I|0.004184
-Wasted! The Story of Food Waste|2017|0.011932
-The Stray|2017|0.185
-Jeepers Creepers 3|2017|1.773763
-Friend Request|2016|0.75
-The LEGO Ninjago Movie|2017|5.8
-Because Of Grácia|2017|0.063573
-Rat Film|2016|0.013256
-Hirune-hime: Shiranai watashi no monogatari|2017|0.017594
-Hazlo Como Hombre|2017|2.182528
-A Gentleman|2017|0.138
-Mayweather vs. Mcgregor|2017|2.4
-The Only Living Boy in New York|2017|0.210229
-Birth of the Dragon|2016|1.108
-La jeune fille sans mains|2016|0.006835
-The Last Dalai Lama?|2016|0.046145
-We Love You, Sally Carmichael!|2017|0.01626
-An Inconvenient Sequel: Truth to Power|2017|0.061
-Detroit|2017|0.132176
-Valerian and the City of a Thousand Planets|2017|23.826147
-Lady Macbeth|2016/I|0.022
-The B-Side: Elsa Dorfman's Portrait Photography|2016|0.020737
-The Bad Batch|2016|0.091074
-The Proxy Soldiers|2017|0.039
-Scary Movie 3|2003|110.000082|110.67
-The Bourne Identity|2002|121.661683|92
-Miles|2017/I|0.001676
-Dean|2016|0.065823
-The Exception|2016|0.021351
-Radio Dreams|2016|0.002053
-The Recall|2017|0.001593
-Love, Kennedy|2017|0.0259
-Captain Underpants: The First Epic Movie|2017|8
-Pirates of the Caribbean: Dead Men Tell No Tales|2017|76.63
-Laavor et hakir|2016|0.045984
-Diary of a Wimpy Kid: The Long Haul|2017|2
-Lowriders|2016|0.908
-Take Me|2017|0.003258
-Une vie|2016|0.011513
-Risk|2016/I|0.075179
-3 Generations|2015|0.005068
-Sleight|2016|2.13544
-Free Fire|2016|0.38
-The Lost City of Z|2016|0.81
-Jeremiah Tower: The Last Magnificent|2016|0.024068
-The Promise|2016/II|4.06486
-Born in China|2016|5.147
-Tommy's Honour|2016|0.208776
-Their Finest|2016|0.460569
-Wszystkie nieprzespane noce|2016|0.012239
-My Entire High School Sinking Into the Sea|2016|0.015215
-Spark: A Space Tail|2016|0.112352
-Colossal|2016|0.616344
-The Fate of the Furious|2017|124.89622|432
-February|2015/I|0.012402
-Beauty and the Beast|2017|435.6|557.3
-Phillauri|2017|0.265
-CHIPS|2017|2.6
-T2 Trainspotting|2017|0.186295
-The Belko Experiment|2016|4.51913
-Khoobsurat|2014|0.795481
-Tracks|2013/I|0.355038
-Jimi: All Is by My Side|2013|0.340911
-Más negro que la noche|2014|0.870063
-The Disappearance of Eleanor Rigby: Them|2014|0.587152|0.009920
-One Chance|2013|0.083749|3.892895
-Men, Women & Children|2014|0.705908
-This Is Where I Leave You|2014|33.68067
-Meet the Mormons|2014|5.301425
-Go with Me|2015|0.027079|0.295889
-The Homeless Billionaire|2016|0.019771
-Raw|2016/II|0.00903
-Personal Shopper|2016|0.028
-Junction 48|2016|0.007873
-Donald Cried|2016|0.011135
-Logan|2017|85.3|152.5
-Tim Timmerman, Hope of America|2017|0.030063
-Ma vie de Courgette|2016|0.034166
-Rock Dog|2016|0.901
-Everybody Loves Somebody|2017|0.26
-A Cure for Wellness|2016|1.5
-Blue Jay|2016/I|0.021626
-Ascenseur pour l'échafaud|1958|0.373597
-Under the Shadow|2016|0.028884
-La battaglia di Algeri|1966|0.859868|0.106203
-Jolly LLB 2|2017|0.195
-John Wick: Chapter 2|2017|11
-The LEGO Batman Movie|2017|15
-Royahaye dame sobh|2016|0.002208
-Good Ol' Boy|2015|0.014867
-Journey to the West: Demon Chapter|2017|0.49871
-Un Padre No Tan Padre|2016|0.978894
-The Monster|2016/I|0.012544
-Gold|2016/I|1.155
-Bastille Day|2016|0.050269
-The Resurrection of Gavin Stone|2017|1.292546
-The Founder|2016|1.005
-Split|2016/IX|14.6
-xXx: Return of Xander Cage|2017|7
-OK Jaanu|2017|0.244
-Paterson|2016|0.231959
-20th Century Women|2016|0.396132
-Assassin's Creed|2016||98
-Umi ga kikoeru|1993||0.012039
-The Bounce Back|2016|0.320676
-Fantastic Beasts and Where to Find Them|2016|233.968825|318.6
-A Monster Calls|2016|0.038267
-Hidden Figures|2016|0.838571
-Chosen|2016|0.003057
-Rogue One|2016|512.2|499.1
-Moana|2016/I|119.9|224
-Believe|2016|0.1689
-Manchester by the Sea|2016|1.627629
-Miss Sloane|2016|0.059797
-Rules Don’t Apply|2016|1.2
-Ism|2016|0.134166
-Wildflower|2016|0.018062
-Kaashmora|2016|0.327929
-Sarusuberi: Miss Hokusai|2015|0.216202
-The Charnel House|2016|0.001753
-Spirit of the Game|2016|0.184034
-In a Valley of Violence|2016|0.044738
-Desierto|2015|1.298472
-Middle School: The Worst Years of My Life|2016|1.95
-Made in France|2015|0.003793
-Victor|2015/II|0.077754
-Queen of Katwe|2016|0.323319
-Demon|2015|0.047742
-Mr. Church|2016|0.107468
-No manches Frida|2016|5.218782
-Sea of Trees|2015|0.002288
-Greater|2016|0.17263
-Morris from America|2016|0.020278
-A Tale of Love and Darkness|2015|0.051207
-Titanic|1997|658.672302|1528.100002
-Batman: The Killing Joke|2016|3.175
-Hillary's America: The Secret History of the Democratic Party|2016|1.453105
-Phantom Boy|2015|0.004352
-V paprscích slunce|2015|0.051367
-Central Intelligence|2016|108.3|48
-The Legend of Tarzan|2016|81.4|54 
-Mike and Dave Need Wedding Dates|2016|16.6|3.7
-Cold War 2|2016||44
-Ice Age: Collision Course|2016||57.7
-The Secret Life of Pets|2016|103.2|42.6
-The Music of Strangers|2015|0.238056
-My Father's Will|2009|0.02998
-Clown|2014|0.036574
-Gentleman|2016|0.599906
-Finding Dory|2016|422.6|525.9
-Warcraft|2016|24.3|261.8
-Crocodile Gennadiy|2015|0.004195
-Neighbors 2: Sorority Rising|2016||30
-Goksung|2016||32.3
-Angry Birds|2016||112
-X-Men: Apocalypse|2016||103.3
-The Lobster|2015|0.257336
-Search Party|2014|0.004571
-A Bigger Splash|2015|0.055232
-Term Life|2016/II|0.01304
-Baaghi: A Rebel For Love|2016|0.237215
-Papa: Hemingway in Cuba|2015|0.1352
-Green Room|2015|0.711886
-Ratchet & Clank|2016|1.488
-Captain America: Civil War|2016|223.3|706.1
-Louder Than Bombs|2015|0.024259
-Mr. Right|2015/I|0.025369
-The Jungle Book|2016|259|530.2
-The Huntsman: Winter's War|2016|40.4|111.3
-Demolition|2015|0.36
-Hardcore Henry|2015|2.01
-Saturday's Warrior|2016|0.096041
-Everybody Wants Some|2016|0.144457
-Avril et le monde truqué|2015|0.011413
-Eye in the Sky|2015|1.022107
-Batman v Superman: Dawn of Justice|2016|325.133|537.8
-Ktown Cowboys|2015|0.013567
-Allegiant|2016|11.9
-Kapoor and Sons|2016|0.275
-The Bronze|2015|0.13
-Hello, My Name Is Doris|2015|0.117667|
-Rams|2015|0.073278
-Until Forever|2016|0.031253
-Crouching Tiger, Hidden Dragon: Sword of Destiny|2016||21
-The Witch|2016|8.7|10.6
-Zootopia|2016|73.7|647.4
-Boonie Bears, to the Rescue!|2014||42
-Mania Days|2015|0.016816
 Zhuo yao ji|2015|0.021074|391
-Du cheng feng yun III|2016||156
-Where to Invade Next|2015|0.25|
-Xi you ji zhi: Sun Wukong san da Baigu Jing|2016||157
-Mei ren yu|2016|2.675575|500
-Dad's Army|2016||7
-How to Be Single|2016|5.25|24.1
-Zoolander 2|2016|4.2|17.1
-Deadpool|2016|311.16|362.04
-13 Hours|2016|49.285015|3.8
-Star Wars: Episode VII - The Force Awakens|2015|936|1130
-Sisters|2015/III|75.83219|17
-The Martian|2015|228.167401|391.8
-The Boy and the World|2013|0.015991
-Jag är Ingrid|2015|0.042381
-The Girl in the Book|2015|0.008245
-Omohide poro poro|1991|0.038681
-The Revenant|2015|165.1|216.5
-The Big Short|2015|57.515453|52.1
-Daddy's Home|2015|150|90
-Creed|2015|108.368646|58.5
-The Hateful Eight|2015|51.48128|76
-Yip Man 3|2015|0.268267|
-Jane Got a Gun|2015|0.277|
-Saala Khadoos|2016|0.076931|
-Jane Got a Gun|2015|0.938521|0.712451
-Pride and Prejudice and Zombies|2016|2.035
-Regression|2015/I|0.0115
-Ride Along 2|2016|74.04683|25.6
-The Finest Hours|2016|15.19766|5.8
-Kung Fu Panda 3|2016|107.5|177
-Alvin and the Chipmunks: The Road Chip|2015|83.420931|131.1
-Joy|2015/I|52.811476|41.9
-Point Break|2015|28.517112|93.5
-The Danish Girl|2015|10.474359|44
-Steve Jobs|2015|17.766658|16.1
-Shaandaar|2015|0.521794|8.1
-Goosebumps|2015|79.968628|74.3

@@ -15,7 +15,6 @@ Crouching Tiger, Hidden Dragon: Sword of Destiny|2016||21
 Dad's Army|2016||7
 Daddy's Home 2|2017|92.779982|72.3
 Dean|2016|0.065823|
-Detective Chinatown 2|2018|1.155578|315
 Downsizing|2017||2
 Everybody Loves Somebody|2017|0.26|
 Everybody Wants Some|2016|0.144457|
@@ -24,7 +23,6 @@ Gentleman|2016|0.599906|0
 Go with Me|2015|0.027079|0.295889
 Goksung|2016||32.3
 Happy Death Day|2017|55.683845|59.5
-Hong hai xing dong|2018||215
 How to Be Single|2016|46.813366|24.1
 Ism|2016|0.134166|
 Jane Got a Gun|2015|1.512815|0.712451
@@ -86,5 +84,4 @@ Titanic|1997|659.325379|1528.100002
 Umi ga kikoeru|1993||0.012039
 Wildflower|2016|0.018062|
 Xiyouji zhi Nü'erguo|2018||94
-Zhuo yao ji 2|2018|0.511307|271
 Zhuo yao ji|2015|0.021074|391
